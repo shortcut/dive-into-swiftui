@@ -1,0 +1,241 @@
+/* 
+  Localizable.strings
+  SearchDemo
+
+  Created by Shortcut for the 23rd of November, 2022 Dive into SwiftUI Masterclass.
+  
+*/
+
+// Search view title
+"search.title" = "Itunes";
+
+// Title of the tab bar element representing the Search tab.
+"search.tabbar.title" = "Search";
+
+// Search view toolbar settings
+"search.toolbar.settings" = "Settings";
+
+// Favorites view title
+"favorites.title" = "Favorites";
+
+// Title of the tab bar element representing the Favorites tab.
+"favorites.tabbar.title" = "Favorites";
+
+// Title of the tab bar element representing the Item of the day tab.
+"itemOfTheDay.tabbar.title" = "Daily item";
+
+// ItemOfTheDay view title.
+"itemOfTheDay.title" = "Item of the day";
+
+// Settings page title
+"settings.title" = "Settings";
+
+// Done button on the toolbar of the settings page
+"settings.toolbar.done" = "Done";
+
+// Media type selection on the settings page
+"settings.media_type" = "Media Type";
+
+// Attribute selection on the settings page
+"settings.attribute" = "Attribute";
+
+// Entity selection on the settings page
+"settings.entity" = "Entity";
+
+// Country selection on the settings page
+"settings.country" = "Country";
+
+// Allow explicit toggle on the settings page
+"settings.allow_explicit" = "Allow explicit results";
+
+// Title for the empty state when user has no Itunes items..
+"search.waiting.title" = "There is no data yet!";
+
+// Description for the empty state.
+"search.waiting.body" = "Enter text to search.";
+
+// Search no results body
+"search.noResults.body" = "No results for: \"%@\"";
+
+// Search error body
+"search.error.body" = "Ops! Something has gone wrong";
+
+// Title of the track section of the detail page
+"detail.track.title" = "Track";
+
+// The name label on the track section of the detail page.
+"detail.track.name" = "Name";
+
+// The explicitness label on the track section of the detail page.
+"detail.track.explicitness" = "Explicitness";
+
+// The SD price label on the track section of the detail page.
+"detail.track.price.sd" = "Price";
+
+// The position label on the track section of the detail page.
+"detail.track.position" = "Track";
+
+// The format for track x of y
+"detail.track.positionFormat" = "%i of %i";
+
+// The length of time label on the track section of the detail page.
+"detail.track.time" = "Length";
+
+// The position label on the track section of the detail page.
+"detail.track.position" = "Track";
+
+// The censored name label on the track section of the detail page.
+"detail.track.trackCensoredName" = "Censored Name";
+
+// The content rating label on the track section of the detail page.
+"detail.track.contentRating" = "Rating";
+
+// The explicitness rating label on the track section of the detail page.
+"detail.track.explicitness" = "Rating";
+
+// The HD price label on the track section of the detail page.
+"detail.track.price.hd" = "HD Price";
+
+// The HD rental price label on the track section of the detail page.
+"detail.track.price.rental.hd" = "HD rental price";
+
+// The SD price label on the track section of the detail page.
+"detail.track.price.rental.sd" = "Rental price";
+
+// The artist name label on the artist section of the detail page.
+"detail.general.artist.name" = "Artist name";
+
+// The average user rating label on the general section of the detail page.
+"detail.general.averageUserRating" = "User rating";
+
+// The average user rating label on the general section of the detail page.
+"detail.general.thisVersionAverageUserRating" = "Version user rating";
+
+// The advisories label on the general section of the detail page.
+"detail.general.advisories" = "Advisories";
+
+// The content advisory rating label on the general section of the detail page.
+"detail.general.contentAdvisoryRating" = "Rating";
+
+// The copyright label on the general section of the detail page.
+"detail.general.copyright" = "Copyright";
+
+// The title of the collection section of the detail page.
+"detail.collection.title" = "Collection";
+
+// The artist name label on the collection section of the detail page.
+"detail.collection.artistName" = "Artist";
+
+// The censored name label on the collection section of the detail page.
+"detail.collection.censoredName" = "Censored name";
+
+// The explicitness label on the collection section of the detail page.
+"detail.collection.explicitness" = "Explicitness";
+
+// The HD price label on the collection section of the detail page.
+"detail.collection.price.hd" = "HD Price";
+
+// The price label on the collection section of the detail page.
+"detail.collection.price.sd" = "Price";
+
+// The name label on the collection section of the detail page.
+"detail.collection.name" = "Name";
+
+// The number of tracks label on the collection section of the detail page.
+"detail.collection.trackCount" = "Number of tracks";
+
+// The current version release date label on the general section of the detail page.
+"detail.general.currentVersionReleaseDate" = "Release date";
+
+// The disc label on the general section of the detail page.
+"detail.general.discCount" = "Disc";
+
+// The disc format on the general section of the detail page.
+"detail.general.discFormat" = "%i of %i";
+
+// The features label on the general section of the detail page.
+"detail.general.features" = "Features";
+
+// The file size label on the general section of the detail page.
+"detail.general.fileSize" = "FileSize";
+
+// The features label on the general section of the detail page.
+"detail.general.genres" = "Genres";
+
+// The has iTunes Extras label on the general section of the detail page.
+"detail.general.hasItunesExtras" = "Itunes Extras";
+
+// The is Game Center enabled label on the general section of the detail page.
+"detail.general.gameCenterEnabled" = "Game Center";
+
+// The is streamable label on the general section of the detail page.
+"detail.general.isStreamable" = "Streamable";
+
+// The is VPP device based licensing enabled label on the general section of the detail page.
+"detail.general.isVppDeviceBasedLicensingEnabled" = "VPP enabled";
+
+// The languages label on the general section of the detail page.
+"detail.general.languages" = "Languages";
+
+// The minimum OS version label on the general section of the detail page.
+"detail.general.minimumOsVersion" = "OS Requirement";
+
+// The genre label on the general section of the detail page.
+"detail.general.genre" = "Genre";
+
+// The release date label on the general section of the detail page.
+"detail.general.releaseDate" = "Release date";
+
+// The release notes label on the general section of the detail page.
+"detail.general.releaseNotes" = "Release notes";
+
+// The seller name label on the general section of the detail page.
+"detail.general.sellerName" = "Seller";
+
+// The release notes label on the general section of the detail page.
+"detail.general.releaseNotes" = "Release notes";
+
+// The supported devices label on the general section of the detail page.
+"detail.general.supportedDevices" = "Supported devices";
+
+// The number of ratings label on the general section of the detail page.
+"detail.general.ratingCount" = "Number of ratings";
+
+// The current version number of ratings label on the general section of the detail page.
+"detail.general.ratingCount" = "Number of ratings current version";
+
+// The version of ratings label on the general section of the detail page.
+"detail.general.version" = "Version";
+
+// The human readable value for true
+"human_readable.true" = "Yes";
+
+// The human readable value for true
+"human_readable.false" = "No";
+
+// The number of ratings label
+"detail.general.ratings.numberOfRatings" = "%i ratings";
+
+// The label for the standard screenshots section
+"detail.screenshots.standard" = "Screenshots";
+
+// The label for the iPad screenshots section
+"detail.screenshots.iPad" = "iPad Screenshots";
+
+// The label for the standard screenshots section
+"detail.screenshots.appleTv" = "appleTv Screenshots";
+
+// Show more clipped text
+"clipped_text.more" = "More";
+
+// Show less clipped text
+"clipped_text.less" = "Less";
+
+// Title for the empty state when user has no favorites.
+"favorites.empty.title" = "There is no data yet!";
+
+// Description for the empty state
+"favorites.empty.body" = "Find your Itunes entertainment\nby Type title, categories, years, etc;";
+
+// CTA for the empty state.
+"favorites.empty.cta" = "Go to Search";

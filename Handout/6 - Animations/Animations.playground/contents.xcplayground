@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1.0 Introduction'/>
+        <page name='1.1 View Identity Introduction'/>
+        <page name='1.2 Identity Types'/>
+        <page name='1.3 Explicit Identity'/>
+        <page name='1.4 Structural identity'/>
+        <page name='2.1 Animations Introduction'/>
+        <page name='2.2 Implicit Animation'/>
+        <page name='2.3 Explicit Animation'/>
+        <page name='2.4 Basic Animations'/>
+        <page name='2.5 Spring Animations'/>
+        <page name='2.6 Configuring Animations'/>
+        <page name='2.7 Overriding animations with transactions'/>
+        <page name='3.1 Transitions Introduction'/>
+        <page name='3.2 Built-in Transitions'/>
+        <page name='3.3 Combining Transitions'/>
+        <page name='3.4 Custom Transitions'/>
+        <page name='3.5 Content Transition'/>
+        <page name='4.1 Matched Geometry Effect'/>
+        <page name='5.1 Hands On'/>
+    </pages>
+</playground>

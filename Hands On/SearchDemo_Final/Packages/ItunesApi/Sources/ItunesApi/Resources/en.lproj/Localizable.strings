@@ -1,0 +1,114 @@
+/* 
+  Localizable.strings
+  Art Thief
+
+  Created by Shortcut for the 23rd of November, 2022 Dive into SwiftUI Masterclass.
+  
+*/
+
+// Media Enties
+"media.entity.none" = "None";
+"media.entity.movieArtist" = "Artist (movie)";
+"media.entity.movie" = "Movie";
+"media.entity.podcastAuthor" = "Author (podcast)";
+"media.entity.podcast" = "Podcast";
+"media.entity.musicArtist" = "Artist (music)";
+"media.entity.musicTrack" = "Track (music)";
+"media.entity.album" = "Album";
+"media.entity.musicVideo" = "Music video";
+"media.entity.mix" = "Mix";
+"media.entity.song" = "Song";
+"media.entity.audiobookAuthor" = "Author (audiobook)";
+"media.entity.audiobook" = "Audiobook";
+"media.entity.shortFilmArtist" = "Artist (short film)";
+"media.entity.shortFilm" = "Short film";
+"media.entity.tvEpisode" = "TV episode";
+"media.entity.tvSeason" = "TV season";
+"media.entity.software" = "Apps";
+"media.entity.iPadSoftware" = "iPad apps";
+"media.entity.macSoftware" = "Mac apps";
+"media.entity.ebook" = "Book";
+"media.entity.allArtist" = "Artist (all)";
+"media.entity.allTrack" = "Track (all)";
+
+// Countries
+"country.us" = "United State";
+"country.dk" = "Denmark";
+"country.no" = "Norway";
+"country.se" = "Sweden";
+"country.ro" = "Romania";
+"country.ua" = "Ukraine";
+"country.mk" = "North Macedonia";
+"country.gb" = "Great Britain";
+"country.jp" = "Japan";
+
+// Media Entities
+"mediaType.all" = "All";
+"mediaType.music" = "Music";
+"mediaType.movie" = "Movies";
+"mediaType.tvShow" = "TV shows";
+"mediaType.software" = "Apps";
+"mediaType.audiobook" = "Audiobooks";
+"mediaType.podcast" = "Podcasts";
+"mediaType.musicVideo" = "Music Videos";
+"mediaType.shortFilm" = "Short films";
+"mediaType.ebook" = "Books";
+
+// Media Attributes
+"media.attribute.none" = "None";
+"media.attribute.actorTerm" = "Actor";
+"media.attribute.albumTerm" = "Album";
+"media.attribute.allArtistTerm" = "Artist (all)";
+"media.attribute.allTrackTerm" = "Track (all)";
+"media.attribute.artistTerm" = "Artist";
+"media.attribute.authorTerm" = "Author";
+"media.attribute.composerTerm" = "Composer";
+"media.attribute.descriptionTerm" = "Description";
+"media.attribute.directorTerm" = "Director";
+"media.attribute.featureFilmTerm" = "Feature film";
+"media.attribute.genreIndex" = "Genre";
+"media.attribute.keywordsTerm" = "Keywords";
+"media.attribute.languageTerm" = "Language";
+"media.attribute.mixTerm" = "Mix";
+"media.attribute.movieArtistTerm" = "Artist (movie)";
+"media.attribute.movieTerm" = "Movie";
+"media.attribute.producerTerm" = "Producer";
+"media.attribute.ratingIndex" = "Rating index";
+"media.attribute.ratingTerm" = "Rating";
+"media.attribute.releaseYearTerm" = "Release year";
+"media.attribute.shortFilmTerm" = "Short film";
+"media.attribute.showTerm" = "Show";
+"media.attribute.softwareDeveloper" = "Developer";
+"media.attribute.songTerm" = "Song";
+"media.attribute.titleTerm" = "Title";
+"media.attribute.tvEpisodeTerm" = "TV episode";
+"media.attribute.tvSeasonTerm" = "TV season";
+
+// Result explicitness
+"result.explicitness.cleaned" = "Cleaned";
+"result.explicitness.explicit" = "Explicit";
+"result.explicitness.notExplicit" = "Not explicit";
+
+// Result Kind
+"result.kind.album" = "Album";
+"result.kind.artist" = "Artist";
+"result.kind.book" = "Book";
+"result.kind.coachedAudio" = "Coached audio";
+"result.kind.ebook" = "Ebook";
+"result.kind.featureMovie" = "Feature movie";
+"result.kind.interactiveBooklet" = "Interactive booklet";
+"result.kind.musicVideo" = "Music video";
+"result.kind.pdf" = "Pdf";
+"result.kind.podcast" = "Podcast";
+"result.kind.podcastEpisode" = "Podcast episode";
+"result.kind.software" = "App";
+"result.kind.softwarePackage" = "App bundle";
+"result.kind.song" = "Song";
+"result.kind.tvEpisode" = "TV episode";
+
+// Result Wrapper
+"result.wrapper.track" = "Track";
+"result.wrapper.collection" = "Collection";
+"result.wrapper.artist" = "Artist";
+"result.wrapper.audiobook" = "Audiobook";
+"result.wrapper.software" = "App";

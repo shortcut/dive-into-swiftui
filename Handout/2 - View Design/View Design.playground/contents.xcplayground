@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1 - Introduction'/>
+        <page name='2.1 - ViewModifier'/>
+        <page name='2.2 - ViewModifier with State'/>
+        <page name='2.3 - ViewModifier order'/>
+        <page name='3.1 - AlignmentGuide'/>
+        <page name='3.2 - Modify alignment value'/>
+        <page name='3.3 - Custom Alignment'/>
+        <page name='4.0 - BlendMode'/>
+        <page name='5.0 - GeometryReader'/>
+        <page name='5.1 - CoordinateSpace'/>
+    </pages>
+</playground>

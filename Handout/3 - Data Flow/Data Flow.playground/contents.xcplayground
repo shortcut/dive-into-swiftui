@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1 - Introduction'/>
+        <page name='2.1 Direct flow parent to child'/>
+        <page name='2.2 Direct flow bidirectional'/>
+        <page name='2.3 Direct flow child to parent'/>
+        <page name='3.1 Environment basics'/>
+        <page name='3.2 Extending the environment'/>
+        <page name='4.1 Preference keys and values'/>
+        <page name='5.1 Combining Preference and Environment'/>
+        <page name='6.1 EnvironmentObject and dependencies'/>
+        <page name='7.1 Data flow using Combine'/>
+        <page name='8.1 Design Patterns'/>
+        <page name='9.1 Hands on'/>
+    </pages>
+</playground>
